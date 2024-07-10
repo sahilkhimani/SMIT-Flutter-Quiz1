@@ -9,9 +9,6 @@ input = [1, 1, 3, 4, 4, 5, 6, 7];
 output = [0, 2, 1, 0, 1, 1, 1]
 
 Question No 4: right angle triangle using an asterik using loop
-****
-***
-**
-*
+reverse triangle
 
 Question No 5: A program to calculate profit and loss on a transaction
