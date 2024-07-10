@@ -1,3 +1,5 @@
+Quiz No 1
+
 Question No 1; Write a function to calculate factorial of a number.
 
 Question No 2: Question No 2: Write a program to print all Armstrong numbers under 1000
